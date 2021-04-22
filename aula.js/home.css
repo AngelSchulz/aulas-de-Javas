@@ -1,0 +1,69 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:#FFFFE0;
+}
+/* cabeçalho */
+.cabecalho{
+    background-color:#FFF5EE;
+    align-content:100px ;
+    border: 2px solid  ;
+}
+/* titulo das divs */
+h1{
+    color: black;
+    font-family: Verdana;
+    font-size: 50px; 
+}  
+/* botoes ao lado do icone */
+.img1{
+    margin:0px;   
+    padding: 0rem;
+    width: 90px;
+    height: 90px;
+}
+/* imagem da lulu */
+.img2{
+    width: 20rem;
+    height: 20rem;
+    margin: 10px;  
+    /* padding-left: 300px; */
+}
+/* article da imagem dois */
+.borda{
+    margin: 0;
+    margin-bottom: 15px;
+    background-color:#FFF5EE;
+    border: 2px solid  ;
+}
+/* Os Href da pagina inteira ficarao assim */
+a{
+    border: 3px black;
+}
+a:hover{
+    color: brown;
+}
+/* Os botoes da pagina inteira serao assim */
+.bt{
+    padding:10px;
+    background: transparent;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius:8px;
+}
+/* Com essa transiçao */
+.bt:hover{
+    background:#FF0000;
+    transition: linear .5s;
+}
+.button_position{
+    padding-left: 100px;
+}
+footer{
+    margin-right: 10px;
+}
+
+
+
